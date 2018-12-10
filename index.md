@@ -1,3 +1,12 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+## And this is a subsection
+
+So. Let's try to write something.
+
+1. Step 1.
+2. Step next.
+
+```
+import java.io.File;
+```
